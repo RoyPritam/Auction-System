@@ -1,5 +1,5 @@
 # Overview
-Online Auction is a Live Bidding platform built on ## 'ReactJS' ##where users can bid for any Products. 
+Online Auction is a Live Bidding platform built on ReactJS where users can bid for any Products. 
 
 
 # Usage
